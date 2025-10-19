@@ -7,9 +7,10 @@ class BrunoRosa:
         self.name: str = 'Bruno Rosa'
         self.age: int = 19
         self.interests: List[str] = [
-            'VOCALOID',
             'Programming',
             'Data Science',
+            'VOCALOID',
+            'Nightcord',
         ]
         self.skills: Dict[str, List[str]] = {
             'Languages': [
