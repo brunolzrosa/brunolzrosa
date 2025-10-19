@@ -1,4 +1,9 @@
-<div style="display: flex; align-items: flex-start;">
+<p align="right"><img style="height: 100;" src="assets/img/kanade.jpeg" alt="kanade" /></p>
+<p align="right"><img style="height: 100;" src="assets/img/mafuyu.jpeg" alt="mafuyu" /></p>
+<p align="right"><img style="height: 100;" src="assets/img/miku.jpeg" alt="miku" /></p>
+<p align="right"><img style="height: 100;" src="assets/img/mizuki.jpeg" alt="mizuki" /></p>
+<p align="right"><img style="height: 100;" src="assets/img/ena.jpeg" alt="ena" /></p>
+
 
 ```python
 class BrunoRosa:
@@ -29,14 +34,3 @@ class BrunoRosa:
             ],
         }
 ```
-<div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%; gap: 0;">
-
-<p><img style="height: 100;" src="assets/img/kanade.jpeg" alt="kanade" /></p>
-<p><img style="height: 100;" src="assets/img/mafuyu.jpeg" alt="mafuyu" /></p>
-<p><img style="height: 100;" src="assets/img/miku.jpeg" alt="miku" /></p>
-<p><img style="height: 100;" src="assets/img/mizuki.jpeg" alt="mizuki" /></p>
-<p><img style="height: 100;" src="assets/img/ena.jpeg" alt="ena" /></p>
-
-</div>
-
-</div>
