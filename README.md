@@ -1,9 +1,11 @@
-<p align="right"><img style="height: 100;" src="assets/img/kanade.jpeg" alt="kanade" /></p>
-<p align="right"><img style="height: 100;" src="assets/img/mafuyu.jpeg" alt="mafuyu" /></p>
-<p align="right"><img style="height: 100;" src="assets/img/miku.jpeg" alt="miku" /></p>
-<p align="right"><img style="height: 100;" src="assets/img/mizuki.jpeg" alt="mizuki" /></p>
-<p align="right"><img style="height: 100;" src="assets/img/ena.jpeg" alt="ena" /></p>
 
+<div style="flex: 5; text-align: right;" align="right">
+    <img height="100" src="assets/img/kanade.jpeg" alt="kanade" /><br />
+    <img height="100" src="assets/img/mafuyu.jpeg" alt="mafuyu" /><br />
+    <img height="100" src="assets/img/miku.jpeg" alt="miku" /><br />
+    <img height="100" src="assets/img/mizuki.jpeg" alt="mizuki" /><br />
+    <img height="100" src="assets/img/ena.jpeg" alt="ena" />
+</div>
 
 ```python
 class BrunoRosa:
