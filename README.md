@@ -1,7 +1,4 @@
-<img align="right" height="300" src="assets/img/kanade.jpeg"  />
-<img align="right" height="300" src="assets/img/mafuyu.jpeg"  />
-<img align="right" height="300" src="assets/img/mizuki.jpeg"  />
-<img align="right" height="300" src="assets/img/ena.jpeg"  />
+<div style="display: flex; align-items: flex-start;">
 
 ```python
 class BrunoRosa:
@@ -31,5 +28,15 @@ class BrunoRosa:
                 'Git',
             ],
         }
-
 ```
+<div style="display: flex; flex-direction: column; justify-content: space-between; height: 100%; gap: 0;">
+
+<p><img style="height: 100;" src="assets/img/kanade.jpeg" alt="kanade" /></p>
+<p><img style="height: 100;" src="assets/img/mafuyu.jpeg" alt="mafuyu" /></p>
+<p><img style="height: 100;" src="assets/img/miku.jpeg" alt="miku" /></p>
+<p><img style="height: 100;" src="assets/img/mizuki.jpeg" alt="mizuki" /></p>
+<p><img style="height: 100;" src="assets/img/ena.jpeg" alt="ena" /></p>
+
+</div>
+
+</div>
